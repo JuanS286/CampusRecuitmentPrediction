@@ -1,7 +1,6 @@
-# Assignment 2 Report
+# Campus Recruitment Prediction
 
-**Author**: Juan Sebastian Rodriguez Reyes  
-**Contact**: c0915840@mylambton.ca  
+From: https://www.kaggle.com/c/ml-with-python-course-project/overview
 
 ## 1. Dataset Description
 
